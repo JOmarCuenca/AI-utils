@@ -1,0 +1,9 @@
+env/
+data/
+models/
+
+# Python Generated
+.ipynb_checkpoints/
+__pycache__/
+
+*.zip
